@@ -2,8 +2,14 @@ body {
     margin: 0%;
 }
 
-.header {
+/* .header {
+
+} */
+
+.controllbar {
     width: 100vw;
-    height: 200px;
-    background-color: blue;
+    height: 75px;
+    background-color: rgb(0, 0, 100);
+    position: absolute;
+    bottom: 0%;
 }
